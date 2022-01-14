@@ -1,0 +1,11 @@
+ El volumen de la unidad C es Windows-SSD
+ El n£mero de serie del volumen es: 9E77-77F4
+
+ Directorio de C:\Users\jruiz\libro\libro-git
+
+14/01/2022  09:02    <DIR>          .
+14/01/2022  09:02    <DIR>          ..
+14/01/2022  09:02    <DIR>          capitulos
+14/01/2022  09:02               140 indice.txt
+               1 archivos            140 bytes
+               3 dirs  636.228.030.464 bytes libres
