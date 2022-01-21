@@ -1,2 +1,5 @@
 nombre : Jose Maria 
 correo: joxex192@gmail.com
+
+Tristán Alonso
+talonso29@ieszaidinvergeles.org
